@@ -1,4 +1,3 @@
-#!/usr/bin/env python3
 import pyaudio
 import audioop as aop
 import numpy as np
