@@ -1,5 +1,6 @@
 # Python Sound Visualizer
 ----
+## About
 This program displays sound, amplitude and the different frequency ranges in your terminal window
 
 ![Screenshot](./screenshots/scrnsht.png)
