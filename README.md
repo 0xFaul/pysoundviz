@@ -19,7 +19,7 @@ $ pip3 install numpy
 ```
 
 ## Usage
-Open a terminal window, navigate to the downloaded folder and type the following:
+Open a terminal window, navigate to the downloaded files and type the following:
 ```
 $ python3 sound.py
 ```
