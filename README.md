@@ -4,7 +4,7 @@ This program displays sound, amplitude and the different frequency ranges in you
 
 ![Screenshot](./screenshots/scrnsht.png)
 
-## Reqirements
+## Requirements
 * Python3
 * PyAudio
 * Numpy
